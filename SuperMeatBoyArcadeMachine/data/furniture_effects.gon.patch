@@ -1,0 +1,8 @@
+IndieArcade2 {
+    name FURNITURE_MOD_INDIE_ARCADE_NAME
+    desc FURNITURE_MOD_INDIE_ARCADE_DESC
+
+    Comfort -3
+    Stimulation 7
+    Appeal 6
+}
